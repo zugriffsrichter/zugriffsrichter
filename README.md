@@ -24,8 +24,8 @@ You can find out more about me on here! ;)
 ## 📂 Projects
 Explore my repositories for:
 - Frontend components
-- UI experiments
-- FiveM Servers
+- Template Websites
+- FiveM Scripts
 
 ---
 
