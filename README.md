@@ -15,8 +15,9 @@ You can find out more about me on here! ;)
 ---
 
 ## 🌏 About Me
--  Self taught **Frontend Developer**
--  I make UI designs on Figma mostly, and use the designs to make the Frontend. And make the matching backend to it.
+-  Self taught **Fullstack Developer**
+-  I make UI designs on Figma mostly, and use the designs to make the Frontend.
+-  I make Discord Bots in Python.
 -  I can Speak German, English, French and Turkish
 
 ---
@@ -26,6 +27,7 @@ Explore my repositories for:
 - Frontend components
 - Template Websites
 - FiveM Scripts
+- Python Scripts
 
 ---
 
