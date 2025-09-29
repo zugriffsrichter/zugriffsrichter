@@ -9,7 +9,7 @@ You can find out more about me on here! ;)
 ## 🗒️ My Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,lua,react,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,lua,python,figma" />
 </p>
 
 ---
